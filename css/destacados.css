@@ -6,6 +6,12 @@
 
 .destacados__titulo {
     font-family: var(--montserrat);
+    text-align: center;
+    color: #4F4C4C;
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 2.4rem;
+    margin-bottom: 2.7rem;
 }
 
 .destacados__panel {
@@ -23,7 +29,8 @@
 }
 
 .destacados__panel-texto {
-
+    font-size: 19px;
+    font-weight: 700;
 }
 
 .destacados__boton {

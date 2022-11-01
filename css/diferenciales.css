@@ -1,12 +1,13 @@
 .diferenciales {
     padding-top: 3.5rem;
     padding-bottom: 3.5rem;
+    background-color: #F7F4F4;
 }
 
 .diferenciales__lista {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between
 }
 
 .diferenciales__item {
@@ -15,6 +16,7 @@
     padding: 2rem 0 2rem 5rem;
     background-repeat: no-repeat;
     background-position: top 1.25rem left 2.5rem;
+
 }
 
 .item__titulo {
@@ -30,13 +32,14 @@
 }
 
 .diferenciales__item-reloj {
-    background-image: url(../img/icono-reloj.png);
+    background-image: url(../img/icono-reloj2.png);
 }
 
 .diferenciales__item-dinero {
-    background-image: url(../img/icono-dinero.png);
+    background-image: url(../img/icono-dinero2.png);
 }
 
 .diferenciales__item-quimica {
     background-image: url(../img/icono-quimica.png);
+    margin: 0 auto;
 }
