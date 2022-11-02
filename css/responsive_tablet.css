@@ -1,0 +1,64 @@
+@media screen and (max-width: 780px) {
+    .head{
+        flex-direction: column;
+    }
+    .head__logo{
+        display: block;
+        margin-bottom: 1rem;
+    }
+   
+    /*Seccion llamada*/
+    .llamada__titulo{
+        font-size: 2rem;
+    }
+
+
+    /*Seccion diferenciales*/
+    .diferenciales__lista{
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .diferenciales__item{
+        margin: 0 auto;
+    }
+    /*Seccion sobre nosotros*/
+   
+    .sobre_nosotros__contenido{
+        
+        margin: 0 auto;
+    }
+    .img_nosotros{
+        display: none;
+    }
+    .sobre_nosotros__titulo{
+        text-align: center;
+    }
+
+    /*seccion planes*/
+    .planes__tarjetas{
+        flex-direction: column;
+    }
+
+    /*seccion contacto*/
+    .institucional_flex{
+        flex-direction: column;   
+    }
+    .institucional__video{
+        width: 100vw;
+    }
+
+    /*footer*/
+    
+    .contenedor_logo_redes-sociales{
+        flex-direction: column;
+    }
+    .footer__logo{
+        margin: 0 auto;
+    }
+    .footer__social{
+        margin: 0 auto;
+    }
+    .navegacion_footer{
+        text-align: center;
+    }
+}

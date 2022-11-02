@@ -1,0 +1,9 @@
+@media screen and (max-width:375px) {
+    .llamada__titulo{
+        font-size: 2rem;
+        margin-top: 2rem;
+    }
+    .head__logo{
+        margin-bottom: 1rem;
+    }
+}
