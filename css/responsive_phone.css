@@ -1,7 +1,17 @@
 @media screen and (max-width:375px) {
     .llamada__titulo{
         font-size: 2rem;
-        margin-top: 2rem;
+        margin-top: 3rem;
+    }
+    .head__logo{
+        margin-bottom: 1rem;
+    }
+}
+
+@media screen and (max-width:638px) {
+    .llamada__titulo{
+        font-size: 2rem;
+        margin-top: 3rem;
     }
     .head__logo{
         margin-bottom: 1rem;

@@ -1,9 +1,8 @@
 @media screen and (max-width: 780px) {
     .head{
-        flex-direction: column;
+        flex-wrap: wrap;
     }
     .head__logo{
-        display: block;
         margin-bottom: 1rem;
     }
    
@@ -32,6 +31,9 @@
     }
     .sobre_nosotros__titulo{
         text-align: center;
+    }
+    .iconos_sobre_nosotros{
+        border: none;
     }
 
     /*seccion planes*/
