@@ -1,6 +1,6 @@
 .head {
     color: var(--background-blanco);
-
+    
     width: 100%;
 
     box-sizing: border-box;
@@ -12,7 +12,7 @@
     padding-top: .75rem;
     padding-bottom: .75rem;
 
-    border-bottom: 1px solid var(--border-cabecera-mobile);
+    /* border-bottom: 1px solid var(--border-cabecera-mobile); */
 
     position: absolute;
 }
@@ -34,4 +34,12 @@
     margin-right: .7rem;
     margin-bottom: .7rem;
     margin-left: .7rem;
+}
+
+.bg{
+    background-image: url('../img/bg-intro.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
 }

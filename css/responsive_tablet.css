@@ -1,14 +1,22 @@
 @media screen and (max-width: 780px) {
     .head{
         flex-wrap: wrap;
+        border-bottom: 1px solid var(--border-cabecera-mobile);
     }
     .head__logo{
         margin-bottom: 1rem;
+    }
+    .bg{
+        background: none;
     }
    
     /*Seccion llamada*/
     .llamada__titulo{
         font-size: 2rem;
+    }
+    .llamada{
+    
+        background-color: var(--background-llamada-mobile);
     }
 
 
