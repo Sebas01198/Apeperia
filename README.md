@@ -9,4 +9,4 @@ Este proyecto aperaria ya esta diseñada totalmente responsive, proximamente ten
 Para su instalacion se tiene que tener git instalado y posteriormente copiar el link de este repositorio y clonarlo de manera local.
 
 ## pagina web en produccion
-Da click  [Aqui](https://sebas01198.github.io/page-Apeperia/ "Aqui")
+Da click  [Aqui](https://sebas01198.github.io/Apeperia/ "Aqui")
